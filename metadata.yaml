@@ -1,10 +1,16 @@
 _repo: Zwei-Jahre-in-New-York-Schilderung-einer-Seereise-von-Havre-nach-New-York-und-Charakteristik-__47079
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47079-h/images/cover.jpg
 creator:
   author:
     agent_name: Vetter, Christoph
     gutenberg_agent_id: '44124'
     url: http://www.gutenberg.org/2009/agents/44124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47079#Zwei-Jahre-in-New-York-Schilderung-einer-Seereise-von-Havre-nach-New-York-und-Charakteristik-_
 gutenberg_issued: '2014-10-09'
 gutenberg_type: Text
 identifiers:
